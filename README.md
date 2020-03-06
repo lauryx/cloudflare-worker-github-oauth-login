@@ -12,7 +12,7 @@ The worker does 3 things
 
 The [index.html](index.html) file is a demo of a "Login with GitHub", you cann see the demo at [gr2m.github.io/cloudflare-worker-github-oauth-login/index.html](https://gr2m.github.io/cloudflare-worker-github-oauth-login/index.html). Look at its source code. If something is unclear, please feel free to [open an issue](https://github.com/gr2m/cloudflare-worker-github-oauth-login/issues) or [ping me on twitter](https://twitter.com/gr2m).
 
-## Step-by-step instructions to create your own
+## Step-by-step instructions  to create your own
 
 Note that you require access to the new GitHub Actions for the automated deployment to work.
 
